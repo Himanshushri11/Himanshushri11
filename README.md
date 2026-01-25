@@ -23,6 +23,8 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
 ### Backend & Database
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 
