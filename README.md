@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Himanshu Shrivastava</h1>
-<h3 align="center">Full Stack Developer | AI & Fitness Tech Enthusiast</h3>
+<h3 align="center">Frontend-Focused Full Stack Developer | Fitness Tech Builder | AI Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 2nd Year Computer Science Student  
-- 💻 Full Stack Developer (MERN Stack)  
-- 🤖 Exploring Generative AI & AI Assistants  
-- 🏋️ Building **Fitty – AI Powered Fitness & Gym Management Platform**  
-- 🌱 Currently learning advanced backend & system design  
-- 🎯 Goal: Become a top-tier Full Stack + AI Engineer  
+- 💻 Frontend-focused Full Stack Developer  
+- 🏋️ Building **Fitty – AI Powered Fitness Platform (Live Project)**  
+- 🤖 Exploring AI integration in real-world applications  
+- 🌱 Currently improving backend & database design skills  
+- 🎯 Goal: Become a strong product-based Full Stack Engineer  
 
 ---
 
@@ -22,35 +22,44 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
-### Backend
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+### Backend & Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+### Deployment & Cloud
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify)
+![Render](https://img.shields.io/badge/Render-0466C8?style=for-the-badge)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-4EA94B?style=for-the-badge&logo=mongodb)
 
-### AI / Tools
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai)
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Zoho SalesIQ](https://img.shields.io/badge/Zoho_SalesIQ-E42527?style=for-the-badge)
 
 ---
 
 ## 🏆 Featured Project
 
-### 🏋️ Fitty – AI Fitness Assistant & Gym Management System
+### 🏋️ Fitty – AI Powered Fitness Platform
 
-> Smart fitness platform with AI workout plans, diet planning, gym member management, and future voice assistant support.
+> Smart fitness web application providing AI-based workout guidance and modern fitness UI experience.
 
-**Tech Used:** React, Node.js, Express, MongoDB, AI APIs
+🔗 **Live Website:** https://fitty-ai.netlify.app/
+
+**Key Highlights:**
+- Modern responsive UI  
+- Fitness-focused product design  
+- Deployed on Netlify  
+- Scalable architecture mindset  
+- Future scope: AI diet planning, voice assistant, gym management  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Himanshushri11&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Himanshushri11&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -63,27 +72,27 @@
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Profiles & Coding Practice
 
-- GitHub: https://github.com/Himanshushri11vastava  
-- LinkedIn: https://linkedin.com/in/your-profile  
-- Email: your-email@example.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/himanshu-shrivastava-315119315/
+- 🧠 LeetCode: https://leetcode.com/u/Himanshu_0811/
+- 🧑‍💻 GitHub: https://github.com/Himanshushri11
 
 ---
 
 ## 🧭 Current Focus
 
-- 🔥 Making Fitty production ready  
-- 🤖 AI Agents & Prompt Engineering  
-- ⚙️ Scalable Backend Architecture  
-- 📱 Mobile-first UI  
+- 🔥 Improving backend fundamentals  
+- 🧠 Data Structures & Algorithms (LeetCode)  
+- 🤖 AI feature integration in Fitty  
+- 📱 High-quality UI/UX for fitness products  
 
 ---
 
 ## 💡 Philosophy
 
-> "Consistency beats motivation. Discipline beats talent."
+> "Build real products. Learn by shipping."
 
 ---
 
-⭐ If you like my work, consider starring my repositories!
+⭐ If you like my work, feel free to explore my repositories and give a star!
