@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Shrivastava</h1>
-<h3 align="center">Frontend-Focused Full Stack Developer | Fitness Tech Builder | AI Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Fitness Tech Builder | AI Enthusiast</h3>
 
 ---
 
