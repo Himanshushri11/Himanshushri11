@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 🎓 2nd Year Computer Science Student  
+- 🎓 3nd Year Computer Science Student  
 - 💻 Frontend-focused Full Stack Developer  
 - 🏋️ Building **Fitty – AI Powered Fitness Platform (Live Project)**  
 - 🤖 Exploring AI integration in real-world applications  
